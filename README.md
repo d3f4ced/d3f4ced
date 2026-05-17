@@ -1,6 +1,6 @@
 # Hi Friend
 
-> I'm krevan, a curious shack
+> I'm shade, a curious shack
 
 
 ```bash
