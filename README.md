@@ -1,6 +1,7 @@
 # Hi Friend
 
-> I'm shade, a curious shack
+> I'm defaced, a curious shack
+> my tg: @d3f4ced
 
 
 ```bash
